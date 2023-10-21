@@ -20,5 +20,5 @@
 <h3> Data Driven Decision Making and Data Science 
 Quezon City New Era University, Quezon City
 Issued Mar 2022
-https://drive.google.com/drive/u/1/folders/1vXwViGIkXnpMpmlKVc3rEQnm_WNo2Nad](https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=share_link)https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=share_link </h3>
+<a href="https://linkedin.com/in/john michael luy" /></a> </h3>
 
