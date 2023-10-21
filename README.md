@@ -18,8 +18,9 @@
 <h1 align="center">Certification</h1>
 
 <a href="https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=share_link">
-<h3> Data Driven Decision Making and Data Science 
-Quezon City New Era University, Quezon City
-Issued Mar 2022
-</h3></a>
+    <h3>Data Driven Decision Making and Data Science</h3>
+    <p>Quezon City New Era University, Quezon City</p>
+    <p>Issued Mar 2022</p>
+</a>
+
 
