@@ -20,5 +20,5 @@
 New Era University, Quezon City logo
 
 <h2 Data Driven Decision Making and Data Science 
-New Era University, Quezon CityNew Era University, Quezon City
-Issued Mar 2022 
+Quezon City New Era University, Quezon City
+Issued Mar 2022  </h2>
