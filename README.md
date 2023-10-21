@@ -23,4 +23,25 @@
     <p>Issued Mar 2022</p>
 </a>
 
+<a href="https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=share_link">
+    <h3>Understanding Data Engineering</h3>
+    <p>Quezon City New Era University, Quezon City</p>
+    <p>Issued May 1 2022</p>
+</a>
+
+<a href="https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=share_link">
+    <h3>Understanding ChatGPT</h3>
+    <p>Quezon City New Era University, Quezon City</p>
+    <p>Issued Sept 2023</p>
+</a>
+
+<a href="https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=share_link">
+    <h3>Understanding Data Science</h3>
+    <p>Quezon City New Era University, Quezon City</p>
+    <p>Issued Sept 2022</p>
+</a>
+
+
+
+
 
