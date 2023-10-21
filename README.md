@@ -17,8 +17,8 @@
 
 <h1 align="center">Certification</h1>
 
-New Era University, Quezon City logo
-
 <h2> Data Driven Decision Making and Data Science 
 Quezon City New Era University, Quezon City
-Issued Mar 2022 </h2>
+Issued Mar 2022
+https://drive.google.com/drive/u/1/folders/1vXwViGIkXnpMpmlKVc3rEQnm_WNo2Nad </h2>
+
