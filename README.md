@@ -1,3 +1,12 @@
+<h1 align="center">Hi 👋, I'm John Michael Luy</h1>
+<h3 align="center">I am a motivated and hardworking person who doesn't back down from a task. I love learning, and I have the skills to complete the assignment.</h3>
+
+- 🔭 I’m currently working on **Municipality of Rodriguez IT Department**
+
+- 📫 How to reach me **michaelfirst4@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://linkedin.com/in/john michael luy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john michael luy" height="30" width="40" /></a>
 <a href="https://fb.com/michael john" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="michael john" height="30" width="40" /></a>
 <a href="https://discord.gg/627835580738174996" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="627835580738174996" height="30" width="40" /></a>
