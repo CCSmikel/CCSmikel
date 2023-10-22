@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Michael Luy</h1>
-<h3 align="center"> A 4th-year Information Technology student at New Era University, Quezon City, Philippines
+<h3 align="center"> A 4th-year Information Technology student at New Era University, Quezon City, Philippines </h3>
 
 - 💬 My Strength is I am a motivated and hardworking person who doesn't back down from a task. I love learning, and I have the skills to complete the assignment.**
 
