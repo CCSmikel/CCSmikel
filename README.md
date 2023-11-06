@@ -1,4 +1,4 @@
-
+![banner](https://github.com/CCSmikel/CCSmikel/assets/118158378/b5ae2d3b-ffc9-4d86-b99d-6cdae26814d3)
 <h1 align="center">Hi 👋, I'm John Michael Luy</h1>
 <h3 align="center"> A 4th-year Information Technology student at New Era University, Quezon City, Philippines </h3>
 
