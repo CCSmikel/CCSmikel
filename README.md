@@ -1,3 +1,11 @@
+<html>
+<head>
+    <title>Profile</title>
+</head>
+<body>
+    <div style="text-align: center;">
+        <img src="banner.jpg" alt="Banner" style="width:100%;">
+    </div>
 <h1 align="center">Hi 👋, I'm John Michael Luy</h1>
 <h3 align="center"> A 4th-year Information Technology student at New Era University, Quezon City, Philippines </h3>
 
