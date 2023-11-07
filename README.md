@@ -41,7 +41,7 @@ SY: 2007-2013 </p>
     - Issued Sept 2023
       
 - [Understanding Data Science](https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=sharing)
-    - Quezon City New Era University, Quezon City
+    - Issued May 01 2022
     
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=D43F36B7F45B2C15183B5B93A0F2AE3CA217DD1F1A7D463E92A52964FC037325)
     - Issued Nov 06, 2023 by Oracle
