@@ -37,7 +37,7 @@ SY: 2007-2013 </p>
 - [Understanding Data Engineering](https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=sharing)
     - Quezon City New Era University, Quezon City
     - Issued May 1, 2022
-- [Understanding ChatGPT]([https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=sharing](https://www.datacamp.com/completed/statement-of-accomplishment/course/31f359bd4711803ffd4d00123585fb361adb2aa6))
+- [Understanding ChatGPT](https://www.datacamp.com/completed/statement-of-accomplishment/course/31f359bd4711803ffd4d00123585fb361adb2aa6)
     - Quezon City New Era University, Quezon City
     - Issued Sept 2023
 - [Understanding Data Science](https://drive.google.com/file/d/1XbjfkKuuEr7YM7YWVG291--qs_TMQL4H/view?usp=sharing)
